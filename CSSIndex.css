@@ -251,3 +251,49 @@ a {
     padding-bottom: 155px;
 }
 
+.card {
+    background-image: linear-gradient(to right, #ffffff 50%, #f1f2f4 50%);
+    margin-top: 50px;
+}
+
+.card-photos-column {
+    width: 600px;
+    background-color: #ffffff;
+}
+
+.card-description-column {
+    width: 570px;
+    color: #151c22;
+}
+
+.card-photo-full {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.card-photo-preview {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.card-photo-preview {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0 20px 0 0;
+}
+
+.card-photo-preview-item {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.similar {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.card-wrapper {
+    display: flex;
+}
